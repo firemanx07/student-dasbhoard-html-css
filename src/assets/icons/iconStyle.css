@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?psok1");
+  src: url("fonts/icomoon.eot?psok1#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?psok1") format("truetype"),
+    url("fonts/icomoon.woff?psok1") format("woff"),
+    url("fonts/icomoon.svg?psok1#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-attendance:before {
+  content: "\e900";
+}
+.icon-calendar:before {
+  content: "\e901";
+}
+.icon-chat:before {
+  content: "\e902";
+}
+.icon-courses:before {
+  content: "\e903";
+}
+.icon-customize:before {
+  content: "\e904";
+}
+.icon-dashboard:before {
+  content: "\e905";
+}
+.icon-edit:before {
+  content: "\e906";
+}
+.icon-left-arrow:before {
+  content: "\e907";
+}
+.icon-logo:before {
+  content: "\e908";
+}
+.icon-mail:before {
+  content: "\e909";
+}
+.icon-materials:before {
+  content: "\e90a";
+}
+.icon-menu:before {
+  content: "\e90b";
+}
+.icon-menu-2:before {
+  content: "\e90c";
+}
+.icon-notification:before {
+  content: "\e90d";
+}
+.icon-search:before {
+  content: "\e90e";
+}
+.icon-settings:before {
+  content: "\e90f";
+}
+.icon-star:before {
+  content: "\e910";
+}
+.icon-tick:before {
+  content: "\e911";
+}
+.icon-time:before {
+  content: "\e912";
+}
+.icon-transcripts:before {
+  content: "\e913";
+}
